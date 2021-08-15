@@ -1,0 +1,13 @@
+.App{
+  padding: 40px 80px 0px;
+}
+.converter {
+  /* display: flex;
+  justify-content: space-around; */
+}
+
+.titles{
+  display: flex;
+  justify-content: space-between;
+  
+}
