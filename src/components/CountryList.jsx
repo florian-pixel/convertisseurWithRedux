@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CountryList = ({country}) => {
+const CountryList = ({country}) => {    
     return (
         <option value = {country.name}>{country.name}</option>
     )
